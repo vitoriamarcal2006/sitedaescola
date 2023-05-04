@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
 .cabecalho {
     background-color:blueviolet;
     color:black;
@@ -39,5 +43,9 @@
     width: 35%;
 }
 .escola-titulo{
-    
+    padding: 24px 0;
+}
+
+.primeira-raca{
+  size: 20%;
 }
